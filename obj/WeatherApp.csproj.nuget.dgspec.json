@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\KyaSh\\Desktop\\WeatherApp\\WeatherApp.csproj": {}
+    "C:\\Users\\KyaSh\\Desktop\\C-HASH_MeteoAPI\\WeatherApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\KyaSh\\Desktop\\WeatherApp\\WeatherApp.csproj": {
+    "C:\\Users\\KyaSh\\Desktop\\C-HASH_MeteoAPI\\WeatherApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KyaSh\\Desktop\\WeatherApp\\WeatherApp.csproj",
+        "projectUniqueName": "C:\\Users\\KyaSh\\Desktop\\C-HASH_MeteoAPI\\WeatherApp.csproj",
         "projectName": "WeatherApp",
-        "projectPath": "C:\\Users\\KyaSh\\Desktop\\WeatherApp\\WeatherApp.csproj",
+        "projectPath": "C:\\Users\\KyaSh\\Desktop\\C-HASH_MeteoAPI\\WeatherApp.csproj",
         "packagesPath": "C:\\Users\\KyaSh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KyaSh\\Desktop\\WeatherApp\\obj\\",
+        "outputPath": "C:\\Users\\KyaSh\\Desktop\\C-HASH_MeteoAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KyaSh\\AppData\\Roaming\\NuGet\\NuGet.Config"
