@@ -43,3 +43,5 @@ En console, j'ai décidé de créer un menu de selection (donc en POO) avec (pou
 \- (3)     Options (Pour la 3.0, contiendra les configurations pour obtenir : des données spécifiques ou non, changement de format (°C ou °F)
 \- (4)     Quitter
 ```
+<hr><br>
+Par Joao Gabriel MARQUES DINIS (;
