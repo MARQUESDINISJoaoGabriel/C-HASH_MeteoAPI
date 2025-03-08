@@ -13,7 +13,8 @@ cd C-HASH_MeteoAPI/
 ```
 
 ## Utilisation
-`dotnet run Program.cs`
+`dotnet run Program.cs`<br>
+
 *Exécuter .\Program.cs\ est nécéssaire afin d'éviter les confusions avec le fichier `WeatherData.cs`*
 
 # DOCUMENTATION SUPP. 
