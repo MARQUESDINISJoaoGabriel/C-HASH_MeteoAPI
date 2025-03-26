@@ -1,6 +1,6 @@
 # ![main_full_cropped](https://github.com/user-attachments/assets/d9e9d56d-baff-47f6-aaf7-4c97e2a8ee79) C# Application Météo
 
-Bienvenue dans ce mini-projet en C# (C-Sharp, C-Hash, .NET) qui se sert d'une API pour receuillir quelques données météo (reçues donc en JSON).
+Bienvenue dans ce mini-projet en C# (C-Sharp, C-Hash, .NET) qui se sert d'une API pour receuillir quelques données météo (reçues donc en JSON). Il s'agit également d'un sujet d'entraînement au C-Sharp et à l'utilisation FRONT-END d'APIs.
 
 ## Installation
 - Pré-requis :
