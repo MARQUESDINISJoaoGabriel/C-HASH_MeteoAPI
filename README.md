@@ -38,10 +38,10 @@ La réponse est parsée en différentes données : <br>
 En console, j'ai décidé de créer un menu de selection (donc en POO) avec (pour cette version 2.0) les choix suivants :<br>
 
 ```
-\- (1)     Insertion de la latitude et longitude manuelle.
-\- (2)     Utilisation simple dans une liste de quelques capitales (Paris, Londres, Lisbonne, Tokyo, ...)
-\- (3)     Options (Pour la 3.0, contiendra les configurations pour obtenir : des données spécifiques ou non, changement de format (°C ou °F)
-\- (4)     Quitter
+- (1)     Insertion de la latitude et longitude manuelle.
+- (2)     Utilisation simple dans une liste de quelques capitales (Paris, Londres, Lisbonne, Tokyo, ...)
+- (3)     Options (Pour la 3.0, contiendra les configurations pour obtenir : des données spécifiques ou non, changement de format (°C ou °F)
+- (4)     Quitter
 ```
 <hr><br>
 Par Joao Gabriel MARQUES DINIS (;
